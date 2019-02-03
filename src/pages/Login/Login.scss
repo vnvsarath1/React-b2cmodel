@@ -1,0 +1,168 @@
+@media only screen and (max-width: 575.98px) { .icondropdown{ display: none
+
+}
+.homeicon{ display: none
+
+}
+.shopicon{ display: none
+
+}
+.card-lay{
+	top:45vh;
+} 
+}
+
+// Small devices (landscape phones, 576px and up)
+@media only screen and (min-width: 576px) and (max-width: 767.98px) { .icondropdown{ display: none
+
+}
+.homeicon{ display: none
+
+}
+.shopicon{ display: none
+
+} 
+.card-lay{
+	top:50vh;
+} 
+}
+
+// Medium devices (tablets, 768px and up)
+@media only screen and (min-width: 768px) and (max-width: 991.98px) { .container1 {	
+	left:18.5%;		
+}.card-lay{
+	top:75vh;
+}  }
+
+// Large devices (desktops, 992px and up)
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {.container1 {	
+	left:18.5%;		
+} .card-lay{
+	top:75vh;
+}   }
+
+// Extra large devices (large desktops, 1200px and up)
+@media only screen and (min-width: 1200px) {  .container1 {	
+	left:18.5%;	
+} .card-lay{
+	top:75vh;
+} }
+
+#collapseExample{
+z-Index:1;
+
+}
+.imagesize{
+height: 100px;
+width:100px;
+}
+.card-lay{
+	height:200px;
+	background-color: white;
+	border: 0ch;
+	
+}
+
+.container1 {
+	
+	max-width: 900px;
+	margin: auto;	
+	position: absolute;
+    overflow-y: scroll;
+}
+.demo-carousel {
+	margin: 0px auto;
+}
+
+.a3m3v1{
+	background-color: rgb(4, 30, 66);
+	height:44px;
+}
+
+.a2WJvM{
+	height:44px;
+	border-style: solid;
+	border-color: rgb(4, 30, 66);
+}
+.menubar{
+	height:95vh;
+	border-style: solid;
+	border-color: rgb(4, 30, 66);
+	overflow-y: scroll;
+	z-index: 1;
+	background-color: white
+	
+}
+.searchdepart{
+	height:400px;
+	border-style: solid;
+	border-color: rgb(4, 30, 66);
+	width:100%;
+}
+.searchdepartspan{
+	margin-left:20px;
+	margin-top:20px;
+	font-size:20px;
+}
+.searchdepartval{
+	margin-left:20px;
+	margin-top:14px;
+	font-size:16px;
+}
+
+
+.searchtext{
+width:100%;
+height:38px;
+}
+.icondropdownSearch{
+	height:42px;
+	width:40px;
+	color:  rgb(4, 30, 66);
+	align-content: center;
+}
+.icondropdown{
+	height:42px;
+	width:40px;
+	color:  rgb(4, 30, 66);
+	align-content: center;
+}
+.icondropdown1{
+	display: flex;
+	left:20px;
+	top:20px;
+	color:  rgb(4, 30, 66);
+	margin-left: 05px;
+	margin-top: 10px;
+}
+.iconhome{
+	height:25px;
+	width:24px;
+	left:10px;
+	font-size: 24px;
+	background-color: rgb(4, 30, 66);
+	color: rgb(184, 185, 105);
+	margin-left: 5px;
+	margin-top: 5px;
+	
+}
+
+.icondetails{
+	height:25px;
+	width:24px;
+	font-size: 24px;
+	background-color: rgb(4, 30, 66);
+	color: rgb(62, 197, 230);
+	margin: 5px 10px 0px;
+	
+}
+.icondetails1{
+	display: flex;
+	height:25px;
+	width:24px;
+	font-size: 24px;
+	color: rgb(62, 197, 230);
+	margin-left: 15px;
+	margin-top: 5px;
+	
+}
